@@ -1,0 +1,18 @@
+
+img{
+    width: 200;
+    height: 200;
+}
+h2{
+    text-align: center;
+}
+.button{
+    width: 200;
+    height: 56;
+    top: 643;
+    left: 246;
+    Radius: 55;
+}
+li{
+    list-style-type: none;
+}
